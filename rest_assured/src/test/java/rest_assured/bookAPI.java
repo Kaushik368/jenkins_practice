@@ -32,8 +32,8 @@ public class bookAPI {
     			RestAssured.baseURI = baseUrl;
     			
     			String RequestBody = "{\r\n"
-    					+ "   \"clientName\": \"ravi478875\",\r\n"
-    					+ "   \"clientEmail\": \"ravi7d887785@example.com\"\r\n"
+    					+ "   \"clientName\": \"kaushik23\",\r\n"
+    					+ "   \"clientEmail\": \"kaushik43@example.com\"\r\n"
     					+ "}";
     			// i have to pre-condition
     			

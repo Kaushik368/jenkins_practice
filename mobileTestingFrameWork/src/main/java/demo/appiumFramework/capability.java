@@ -50,7 +50,7 @@ public class capability {
 		return isServerRunning;
 	}
 	public static void startEmulator() throws IOException, InterruptedException {
-		 rt = Runtime.getRuntime().exec("C:\\Users\\USER\\Desktop\\emulator.bat");
+		 rt = Runtime.getRuntime().exec("C:\\Users\\USER\\git\\jenkins_practice\\mobileTestingFrameWork\\emulator.bat");
 		 Thread.sleep(10000);
 	}
 	
